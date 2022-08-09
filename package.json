@@ -5,6 +5,11 @@
   "main": "index.js",
   "description": "ESLint configuration for Cod3Rocket",
   "author": "eduardoteles17 <edu.teles@pm.me>",
+  "files": [
+    ".eslintrc.js",
+    ".prettierrc",
+    "index.js"
+  ],
   "keywords": ["eslint", "cod3rocket", "eslint-config"],
   "peerDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.32.0",
