@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-cod3rocket",
   "license": "MIT",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "description": "ESLint configuration for Cod3Rocket",
   "author": "eduardoteles17 <edu.teles@pm.me>",

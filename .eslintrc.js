@@ -60,8 +60,12 @@ module.exports = {
     'import/no-unresolved': 'off',
     'import/prefer-default-export': 'off',
     'no-useless-constructor': 'off',
+    'react-hooks/exhaustive-deps': 'off',
     'react/jsx-filename-extension': [1, { extensions: ['.tsx'] }],
     'react/jsx-props-no-spreading': 'off',
+    'react/no-unstable-nested-components': 'off',
+    'react/prop-types': 'off',
     'react/react-in-jsx-scope': 'off',
+    'react/require-default-props': 'off',
   },
 };
