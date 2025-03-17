@@ -5,6 +5,7 @@
   "main": "index.js",
   "description": "ESLint configuration for Cod3Rocket",
   "author": "eduardoteles17 <edu.teles@pm.me>",
+  "packageManager": "pnpm@10.6.4",
   "files": [
     ".eslintrc.js",
     ".prettierrc",
