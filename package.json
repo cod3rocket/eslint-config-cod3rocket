@@ -4,7 +4,7 @@
   "version": "2.0.1",
   "description": "ESLint configuration for Cod3Rocket",
   "packageManager": "pnpm@10.6.4",
-  "main": "base.js",
+  "main": "./base.js",
   "exports": {
     "./base": "./base.js"
   },
