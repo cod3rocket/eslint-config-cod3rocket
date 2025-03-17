@@ -4,10 +4,16 @@
   "version": "1.0.4",
   "main": "base.js",
   "description": "ESLint configuration for Cod3Rocket",
-  "author": "eduardoteles17 <edu.teles@pm.me>",
   "packageManager": "pnpm@10.6.4",
   "files": [
     "base.js"
+  ],
+  "author": "Eduardo Teles (https://github.com/eduardoteles17)",
+  "contributors": [
+    {
+      "name": "Eduardo Teles",
+      "url": "https://github.com/eduardoteles17"
+    }
   ],
   "homepage": "https://github.com/cod3rocket/eslint-config-cod3rocket",
   "keywords": [
