@@ -2,9 +2,12 @@
   "name": "eslint-config-cod3rocket",
   "license": "MIT",
   "version": "1.0.4",
-  "main": "base.js",
   "description": "ESLint configuration for Cod3Rocket",
   "packageManager": "pnpm@10.6.4",
+  "main": "base.js",
+  "exports": {
+    "./base": "./base.js"
+  },
   "files": [
     "base.js"
   ],
