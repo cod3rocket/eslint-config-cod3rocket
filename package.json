@@ -2,14 +2,12 @@
   "name": "eslint-config-cod3rocket",
   "license": "MIT",
   "version": "1.0.4",
-  "main": "index.js",
+  "main": "base.js",
   "description": "ESLint configuration for Cod3Rocket",
   "author": "eduardoteles17 <edu.teles@pm.me>",
   "packageManager": "pnpm@10.6.4",
   "files": [
-    ".eslintrc.js",
-    ".prettierrc",
-    "index.js"
+    "base.js"
   ],
   "homepage": "https://github.com/cod3rocket/eslint-config-cod3rocket",
   "keywords": [
